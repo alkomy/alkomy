@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @alkomy
-- 👀 I’m interested in blockchain
 - 📫 How to reach me: mohamed @ alkomy . net
 
 <!---
