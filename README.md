@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alkomy
-- 📫 How to reach me: mohamed @ alkomy . net
+- 📫 How to reach me: m @ alkomy . net
 
 <!---
 alkomy/alkomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
